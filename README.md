@@ -132,7 +132,7 @@ When, like me, you have no web designer skills at all and your web pages look ug
 
 I use:
  
-* [Font Awesome](http://fontawesome.io/)
+* [Font Awesome](http://fontawesome.io/)    
 * [Silk Icons](http://www.famfamfam.com/lab/icons/silk/) which are in Creative Commons
 
 ### Arquillian
