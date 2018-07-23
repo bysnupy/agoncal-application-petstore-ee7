@@ -1,7 +1,7 @@
 # Application - Petstore Java EE 7
 
 * *Author* : [Antonio Goncalves](http://www.antoniogoncalves.org)
-* *Level* : Intermediate
+* *Level* : Intermediate      
 * *Technologies* : Java EE 7 (JPA 2.1, CDI 1.1, Bean Validation 1.1, EJB Lite 3.2, JSF 2.2, JAX-RS 2.0), Java SE 7 (because that's the minimum required by Java EE 7), Twitter Bootstrap (Bootstrap 3.x, JQuery 2.x, PrimeFaces 6.x)
 * *Application Servers* : WildFly 10, WildFly 11
 * *Summary* : A Petstore-like application using Java EE 7
